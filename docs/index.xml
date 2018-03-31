@@ -6,10 +6,19 @@
     <description>Recent content in Home on O chytrém ševci a hloupém čertovi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Mar 2018 17:32:22 +0200</lastBuildDate>
     
 	<atom:link href="http://venda142.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hraj Ascension!</title>
+      <link>http://venda142.github.io/hugo-start/post/nazev/</link>
+      <pubDate>Sat, 31 Mar 2018 17:32:22 +0200</pubDate>
+      
+      <guid>http://venda142.github.io/hugo-start/post/nazev/</guid>
+      <description>Na tomto videu jsme se shodly s holkama pro naše téma Hraj Ascension! (jedná se o deskovou hru), mohlo by být přínosné.</description>
+    </item>
     
     <item>
       <title>All albums of The Beatles</title>
