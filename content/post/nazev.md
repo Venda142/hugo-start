@@ -1,7 +1,7 @@
 ---
 title: "Hraj Ascension!"
 date: 2018-03-31T17:32:22+02:00
-draft: true
+draft: false
 ---
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/a2HMKaMG_T0/"> </iframe>
